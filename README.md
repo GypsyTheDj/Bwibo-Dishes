@@ -54,35 +54,35 @@
 
 ## Contributing and reporting issues 🤝
 
-I appreciate contributions of any kind - new contributions
+I appreciate contributions of any kind - All contributions
 are welcome whether it's through bug reports or new pull requests.
 
-#### Tell me about enhancements and bugs
+### Tell me about enhancements and bugs
 
-Please add an issue. I'll review it, add labels and reply within a few days.
+- Please add an issue. I'll review it, add labels and reply within a few days.
 
-#### See an issue you'd like to work on
+### See an issue you'd like to work on
 
-Comment on the issue that you'd like to work on and I'll add the
+- Comment on the issue that you'd like to work on and I'll add the
 `claimed` label.  If you see the `claimed` label already on the issue you
 might want to ask the contributor if they'd like some help.
 
-#### Documentation needs updating
+### Documentation needs updating
 
-Go right ahead! Just submit a pull request when you're done.
+- Go right ahead! Just submit a pull request when you're done.
 
 <hr/>
 
-### Pull Requests
+## Pull Requests
 
 I love pull requests from everyone:
 
 1. [Fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo) this repository:
 1. Clone forked repository `git clone git@github.com:YOUR-USERNAME/Bwibo-Dishes.git`
 
-All changes should be based from the `master` branch. Push to your fork and [submit a pull request](https://github.com/GypsyTheDj/Bwibo-Dishes/pulls) against the `master` branch.
+- All changes should be based from the `master` branch. Push to your fork and [submit a pull request](https://github.com/GypsyTheDj/Bwibo-Dishes/pulls) against the `master` branch.
 
-At this point you're waiting on me 😊. I like to at least comment on pull requests
+- At this point you're waiting on me, right 😊. I like to at least comment on pull requests
 within few days. I may suggest some changes or improvements or alternatives.
 
 Some things that will increase the chance that your pull request is accepted:
