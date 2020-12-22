@@ -97,6 +97,6 @@ Some things that will increase the chance that your pull request is accepted:
 ### Let's have fun 🥳🥑
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/GypsyTheDj)
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+[![ForTheBadge powered-by-Norman's-Keyboard](http://ForTheBadge.com/images/badges/powered-by-norman's-keyboard.svg)](http://ForTheBadge.com)
 
 
