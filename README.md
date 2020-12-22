@@ -8,8 +8,14 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GypsyTheDj)
 [![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)](https://firebase.google.com/products-build)
 
+This is an online food ordering app by Bwibo Dishes which gives their clients the flexibility to place their Food Orders and get them delivered to them conveniently, quickly and painlessly with a vast visual appeal and a strong stimulating effect on their customers.
 
 <hr/>
+
+# <h2 align = "center" > COOK  🇰🇪 | Welcome to my art👩🏽‍🍳😊 | 📞: 0713775108 to order or for any enquiries | 🚫: Closed on Mondays only | 📩: bwibobusiness95@gmail.com</h2>  
+
+<hr/>
+
 <h3>Project Features</h3>
 <ol>
   <li>Beautiful Splash Screen Animation Design</li>
