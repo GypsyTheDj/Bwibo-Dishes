@@ -1,7 +1,7 @@
 # <h1 align = "center" >Bwibo Dishes Ordering App</h1>
 
 [![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)](https://material.io/develop)
-[![Java](https://img.shields.io/badge/java-1.4.21-blue.svg)](https://docs.oracle.com/en/java)
+[![Java](https://img.shields.io/badge/java-15.0.1-orange.svg)](https://www.oracle.com/java/technologies/java-se-glance.html)
 [![Gradle](https://img.shields.io/badge/gradle-6.7.1-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://github.com/GypsyTheDj/Bingo/blob/master/LICENSE.txt)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GypsyTheDj/Bingo/pulls)
