@@ -3,8 +3,8 @@
 [![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)](https://material.io/develop)
 [![Java](https://img.shields.io/badge/java-15.0.1-orange.svg)](https://www.oracle.com/java/technologies/java-se-glance.html)
 [![Gradle](https://img.shields.io/badge/gradle-6.7.1-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
-[![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://github.com/GypsyTheDj/Bingo/blob/master/LICENSE.txt)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GypsyTheDj/Bingo/pulls)
+[![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://github.com/GypsyTheDj/Bwibo-Dishes/blob/master/LICENSE.txt)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GypsyTheDj/Bwibo-Dishes/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GypsyTheDj)
 [![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase)](https://firebase.google.com/products-build)
 
@@ -12,7 +12,7 @@ This is an online food ordering app by Bwibo Dishes which gives their clients th
 
 <hr/>
 
-# <h2 align = "center" > COOK  🇰🇪 | Welcome to my art👩🏽‍🍳😊 | 📞: 0713775108 to order or for any enquiries | 🚫: Closed on Mondays only | 📩: bwibobusiness95@gmail.com</h2>  
+# <h2 align = "center" >She's 🇰🇪 | Welcome to her art👩🏽‍🍳😊 ⇢⇢ 📞: 0713775108 to order or for any enquiries | 🚫: Closed on Mondays only | 📩: bwibobusiness95@gmail.com</h2>  
 
 <hr/>
 
