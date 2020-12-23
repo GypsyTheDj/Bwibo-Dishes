@@ -10,7 +10,9 @@
 
 <hr/>
 
-# <h2 align = "center" >She's 🇰🇪 and welcomes everyone to her art 👩🏽‍🍳😊 | Halla 📞: 0713775108 to make an order or for any enquiries | Only closed on Mondays | Bookings 📩: bwibobusiness95@gmail.com</h2>  
+# <h2 align = "center" >She's 🇰🇪 and welcomes everyone to her art 👩🏽‍🍳😊 | Halla 📞: 0713775108 to make an order or for any enquiries | Only closed on Mondays | Bookings 📩: bwibobusiness95@gmail.com</h2> 
+
+ <img src="https://github.com/GypsyTheDj/Bwibo-Dishes/blob/master/assets/bwibo.png"> 
 
 <hr/>
 
