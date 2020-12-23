@@ -10,7 +10,7 @@
 
 <hr/>
 
-# <h2 align = "center" >She's 🇰🇪 and Welcomes everyone to her art 👩🏽‍🍳😊 | Halla 📞: 0713775108 to order or for any enquiries | They are Closed on Mondays Only | Bookings 📩: bwibobusiness95@gmail.com</h2>  
+# <h2 align = "center" >She's 🇰🇪 and welcomes everyone to her art 👩🏽‍🍳😊 | Halla 📞: 0713775108 to make an order or for any enquiries | Only closed on Mondays | Bookings 📩: bwibobusiness95@gmail.com</h2>  
 
 <hr/>
 
