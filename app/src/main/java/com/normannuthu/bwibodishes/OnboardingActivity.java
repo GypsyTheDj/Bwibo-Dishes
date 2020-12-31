@@ -22,9 +22,9 @@ public class OnboardingActivity extends AppCompatActivity {
         splashImg = findViewById(R.id.img);
         lottieAnimationView = findViewById(R.id.lottie);
 
-        splashImg.animate().translationY(-1600).setDuration(1000).setStartDelay(4000);
-        logo.animate().translationY(1400).setDuration(1000).setStartDelay(4000);
-        appName.animate().translationY(1400).setDuration(1000).setStartDelay(4000);
-        lottieAnimationView.animate().translationY(1400).setDuration(1000).setStartDelay(4000);
+        splashImg.animate().translationY(-1600).setDuration(2000).setStartDelay(5000);
+        logo.animate().translationY(1400).setDuration(2000).setStartDelay(5000);
+        appName.animate().translationY(1400).setDuration(2000).setStartDelay(5000);
+        lottieAnimationView.animate().translationY(1400).setDuration(2000).setStartDelay(5000);
     }
 }
